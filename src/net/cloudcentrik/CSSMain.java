@@ -6,6 +6,11 @@ public class CSSMain {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Welcome to Cloudcentrik Systems !!!");
+		
+		
+		int number=Factorial.fact(10);
+		
+		System.out.println("Factorial 10 = "+number);
 
 	}
 	
