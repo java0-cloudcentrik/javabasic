@@ -8,5 +8,9 @@ public class CSSMain {
 		System.out.println("Welcome to Cloudcentrik Systems !!!");
 
 	}
+	
+	public static void findDuplicate(){
+		System.out.println("There is no duplicate now");
+	}
 
 }
